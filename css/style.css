@@ -1,0 +1,41 @@
+body{
+    background-color: bisque;
+    margin: 0;
+    /* overflow: hidden; */
+}
+.container{
+    background-color: red;
+    height: 100vh;
+}
+.header{
+    background-color: aquamarine;
+    height: 10vh;
+}
+.main{
+    background-color: limegreen;
+    height: 60vh;
+    display: flex;
+}
+.footer{
+    background-color: deeppink;
+    height: 5vh;
+}
+.news{
+    background-color: blueviolet;
+    height: 25vh;
+    display: flex;
+    gap: 1px;
+}
+.main-info{
+    background-color: gold;
+    width: 25vw;
+}
+.main-data{
+    background-color: crimson;
+    width: 75vw;
+}
+.new-b1{
+    background-color: darkgray;
+    width: 20vw;
+    height: 25vh;
+}
